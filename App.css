@@ -1,0 +1,19 @@
+
+.app {
+  font-family: sans-serif;
+  padding: 2rem;
+}
+.player {
+  padding: 1rem;
+  margin-bottom: 1rem;
+  border-radius: 8px;
+}
+.cards span {
+  display: inline-block;
+  margin-right: 8px;
+  font-size: 1.2rem;
+}
+button {
+  margin-top: 1rem;
+  margin-right: 0.5rem;
+}
